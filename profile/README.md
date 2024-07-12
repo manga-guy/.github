@@ -1,5 +1,7 @@
 ## Welcome.
 
+![MG Research LOGO](https://github.com/user-attachments/assets/6cbc86e0-8645-449f-919d-b57c3ffba767)
+
 Manga Guy Research is an organization primarily concerned with how we can both learn from and research manga and anime.
 
 Current projects:
