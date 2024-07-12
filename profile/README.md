@@ -4,8 +4,12 @@ Manga Guy Research is an organization primarily concerned with how we can both l
 
 Current projects:
 
-Using AI to understand how users interact with and feel about certain anime and manga.
-Comparative literary analysis on the hero's journey in anime.
+1. Using AI to understand how users interact with and feel about certain anime and manga.
+2. Comparative literary analysis on the hero's journey in anime.
+
+
+
+
 For further information:
 
 Contact: nate@manga-guy.net
