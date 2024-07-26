@@ -1,4 +1,4 @@
-## Welcome.
+## Welcome. Check out the website ![manga-guy.net](www.manga-guy.net)
 
 ![MG Research LOGO](https://github.com/user-attachments/assets/6cbc86e0-8645-449f-919d-b57c3ffba767)
 
