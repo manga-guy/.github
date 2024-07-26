@@ -14,6 +14,8 @@ Current projects:
 
 For further information:
 
+Website: www.manga-guy.net
+
 Contact: nate@manga-guy.net
 
 Personal Blog: https://mg2-0.vercel.app/
